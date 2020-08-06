@@ -1,0 +1,9 @@
+br\com\test\ServletInitializer.class
+br\com\test\interceptor\OAuth2RestTemplateInterceptor.class
+br\com\test\config\WebConfig.class
+br\com\test\filter\IgnoredRoutesFilter.class
+br\com\test\UiServerApplication.class
+br\com\test\exception\ZuulFilterException.class
+br\com\test\config\WebConfig$1.class
+br\com\test\config\ResourceServerConfig.class
+br\com\test\config\RestTemplateConfig.class

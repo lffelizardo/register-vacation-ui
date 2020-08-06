@@ -1,0 +1,8 @@
+c:\dev\Workspace\register-vacation-ui\src\main\java\br\com\test\config\RestTemplateConfig.java
+c:\dev\Workspace\register-vacation-ui\src\main\java\br\com\test\filter\IgnoredRoutesFilter.java
+c:\dev\Workspace\register-vacation-ui\src\main\java\br\com\test\interceptor\OAuth2RestTemplateInterceptor.java
+c:\dev\Workspace\register-vacation-ui\src\main\java\br\com\test\exception\ZuulFilterException.java
+c:\dev\Workspace\register-vacation-ui\src\main\java\br\com\test\UiServerApplication.java
+c:\dev\Workspace\register-vacation-ui\src\main\java\br\com\test\config\WebConfig.java
+c:\dev\Workspace\register-vacation-ui\src\main\java\br\com\test\ServletInitializer.java
+c:\dev\Workspace\register-vacation-ui\src\main\java\br\com\test\config\ResourceServerConfig.java
